@@ -1,0 +1,25 @@
+// SourceBoost Linker Function Resource Usage Dump
+
+#GLOBAL:"global",line = 0,ram = 245.2,rom = 0;
+__div_16_16(unsigned short,unsigned short):"E:\Prg\picant\compiler\picantc\libc\div.c",line = 115,ram = 9.0,rom = 32;
+__rem_16_16(unsigned short,unsigned short):"E:\Prg\picant\compiler\picantc\libc\div.c",line = 144,ram = 9.0,rom = 32;
+__div_8_8(unsigned char,unsigned char):"E:\Prg\picant\compiler\picantc\libc\div.c",line = 175,ram = 5.0,rom = 18;
+__rem_8_8(unsigned char,unsigned char):"E:\Prg\picant\compiler\picantc\libc\div.c",line = 205,ram = 5.0,rom = 18;
+measurement_sensora0(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motion.c",line = 10,ram = 4.0,rom = 22;
+transmit_code(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motion.c",line = 135,ram = 0.0,rom = 13;
+transmit_code1(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motion.c",line = 141,ram = 0.0,rom = 13;
+transmit_code2(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motion.c",line = 147,ram = 0.0,rom = 13;
+transmit_code3(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motion.c",line = 153,ram = 0.0,rom = 13;
+main(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motion.c",line = 160,ram = 3.0,rom = 145;
+Handler_Value(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 11,ram = 4.0,rom = 25;
+interrupt(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 18,ram = 0.0,rom = 18;
+delay_time(unsigned int,unsigned int):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 41,ram = 8.0,rom = 29;
+LCD_nibble_send(unsigned char,unsigned char):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 71,ram = 4.0,rom = 101;
+LCD_init(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 106,ram = 1.0,rom = 31;
+LCD_pos_cursor(unsigned char,unsigned char):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 119,ram = 2.0,rom = 17;
+LCD_print_mess(unsigned char):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 134,ram = 7.0,rom = 63;
+init_ADC(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 204,ram = 0.0,rom = 21;
+init_USART(void):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 242,ram = 0.0,rom = 13;
+res_valdigit(unsigned int):"C:\Program Files\Matrix Multimedia\C4PICs16\course\Exercises\programs_C\sensor_Gas\sensor_motionlib.c",line = 253,ram = 8.0,rom = 176;
+_startup(void):"NoSourceFile",line = 0,ram = 0.0,rom = 487;
+#HEAP_BLOCK: 0, 403, 93;
